@@ -20,6 +20,7 @@ from SRC.helpers.payload_manager import payload_create_booking
 
 
 class TestIntigration (object):
+
     header = {
         "Content-Type: application/json"
     }
